@@ -55,6 +55,8 @@ Each value is represented as with a JSON Schema.
   - `Other Geodiversity`
   - `Unclassified`
 
+**Note**: The JSON-LD [examples](https://github.com/DiSSCo/orpheus/tree/main/vocabularies) provided in this repository are for illustrative purposes and are subject to discussion and refinement by the community.
+
 ## Contributing
 We welcome feedback from the community to improve these terms and vocabularies.
 
