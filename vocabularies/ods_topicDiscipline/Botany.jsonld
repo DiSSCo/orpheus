@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "@id": "https://hdl.handle.net/20.500.1025/ods_topicDiscipline/Botany",
+  "@type": "skos:Concept",
+  "rdfs:label": "Botany",
+  "skos:prefLabel": "Botany",
+  "skos:definition": "The scientific study of plants.",
+  "rdfs:isDefinedBy": "https://hdl.handle.net/20.500.1025/ods_topicDiscipline_vocab",
+  "skos:inScheme": "https://hdl.handle.net/20.500.1025/ods_topicDiscipline_vocab",
+  "dcterms:created": "2025-01-02T10:00:00.000Z",
+  "dcterms:modified": "2025-01-02T10:00:00.000Z"
+}
